@@ -38,10 +38,16 @@ the generator, using the previous image and the action, will generate the next i
   <em></em>
 </p>
 
-<h4>Action: "I go to a street food vendor."</h4>
+<h4>The user enters the following action: "I go to a street food vendor."</h4>
+
+
+
+
 
 <p align="center">
   <img src="./images/star_wars_2.png" alt="Local Image" width="500px" height="700px" />
   <br />
   <em>Image 1</em>
 </p>
+
+<h4>..."</h4>
